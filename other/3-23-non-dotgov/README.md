@@ -1,0 +1,1 @@
+Following up on [this scan](https://github.com/GSA/site-scanning-snapshots/tree/main/other/12-22-non-dotgov), we're doing another pass at the 3k or so entries that didn't generate any scan data the first time to see if there's a reason why.  
