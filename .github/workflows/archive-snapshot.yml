@@ -26,4 +26,4 @@ jobs:
       - run: python ./archiver/main.py
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update analysis files
+          commit_message: Archive snapshot
