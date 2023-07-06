@@ -9,7 +9,7 @@ on:
 
 jobs:
   bundle:
-    name: Generate Snapshot
+    name: Archive Snapshot
     runs-on: ubuntu-latest
     permissions:
       actions: write
