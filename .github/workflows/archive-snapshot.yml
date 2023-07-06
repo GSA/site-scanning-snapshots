@@ -1,5 +1,5 @@
 ---
-name: Generate all analysis
+name: Archive snapshot
 
 # yamllint disable-line rule:truthy
 on:
@@ -9,7 +9,7 @@ on:
 
 jobs:
   bundle:
-    name: Generate All Analysis Files
+    name: Generate Snapshot
     runs-on: ubuntu-latest
     permissions:
       actions: write
