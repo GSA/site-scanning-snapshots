@@ -1,6 +1,6 @@
 # Site Scanning Snapshots
-A storage facility for one off scan data.
 
+A storage facility for one-off scan data.
 
 The [Site Scanning program](https://digital.gov/site-scanning/) automates a wide range of scans of public federal websites and generates data about website health and best practices.
 
