@@ -1,4 +1,4 @@
-archive/csv/weekly-snapshot-2021-01-10T08:00:00.106Z.csv
+https://api.gsa.gov/technology/site-scanning/data/archive/csv/weekly-snapshot-2021-01-10T08:00:00.106Z.csv
 https://api.gsa.gov/technology/site-scanning/data/archive/csv/weekly-snapshot-2021-01-17T08:00:00.093Z.csv
 https://api.gsa.gov/technology/site-scanning/data/archive/csv/weekly-snapshot-2021-01-24T08:00:00.107Z.csv
 https://api.gsa.gov/technology/site-scanning/data/archive/csv/weekly-snapshot-2021-01-31T08:00:00.106Z.csv
