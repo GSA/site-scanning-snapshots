@@ -2428,6 +2428,8 @@ https://api.gsa.gov/technology/site-scanning/data/archive/json/weekly-snapshot-u
 
 ### Accessibility details file
 
+https://api.gsa.gov/technology/site-scanning/data/weekly-snapshot-accessibility-details.json
+
 https://api.gsa.gov/technology/site-scanning/data/archive/json/weekly-snapshot-accessibility-details-2024-03-28-1.json  
 https://api.gsa.gov/technology/site-scanning/data/archive/json/weekly-snapshot-accessibility-details-2024-03-28-2.json  
 https://api.gsa.gov/technology/site-scanning/data/archive/json/weekly-snapshot-accessibility-details-2024-03-28.json  
