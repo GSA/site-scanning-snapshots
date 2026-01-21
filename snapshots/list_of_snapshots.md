@@ -1,3 +1,19 @@
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-latest.csv
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-latest.json
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-latest.csv
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-latest.json
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-filtered-latest.csv
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-filtered-latest.json
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-filtered-unique-latest.csv
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-filtered-unique-latest.csv.json
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-previous.csv
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-previous.json
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-previous.csv
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-previous.json
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-filtered-previous.csv
+https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-filtered-previous.json
+
+
 ### Beginning in April 2025 and going forward, archive files adopted the new file naming.    
   
 https://api.gsa.gov/technology/site-scanning/data/archive/csv/site-scanning-2025-04-24.csv  
