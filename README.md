@@ -1,5 +1,5 @@
 
-# This repository is archived!  Please refer to [this page](https://digital.gov/site-scanning) or [this page](https://digital.gov/guides/site-scanning/technical-details#content-start) for any Site Scanning needs that you have.  And if you're specifically looking for snapshots, [see this list](https://github.com/GSA/site-scanning-snapshots/blob/main/snapshots/list_of_snapshots.md).  
+# This repository is archived!  Please refer to [this page](https://digital.gov/site-scanning) or [this page](https://digital.gov/guides/site-scanning/technical-details#content-start) for any Site Scanning needs that you have.  And if you're specifically looking for snapshots, [see this list](https://github.com/GSA/site-scanning-documentation/blob/main/data/Snapshot_Archive_Links.csv).  
 
 Questions or need anything?  Please file an issue [here](https://github.com/GSA/site-scanning/issues) or email us at [site-scanning@gsa.gov](mailto:site-scanning@gsa.gov).  
 
