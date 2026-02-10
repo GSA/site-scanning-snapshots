@@ -1,3 +1,11 @@
+
+## v2
+
+https://github.com/GSA/site-scanning-documentation/blob/main/data/Snapshot_Archive_Links.csv
+
+
+## v1
+
 https://api.gsa.gov/technology/site-scanning/data/site-scanning-latest.csv  
 https://api.gsa.gov/technology/site-scanning/data/site-scanning-latest.json  
 https://api.gsa.gov/technology/site-scanning/data/site-scanning-live-latest.csv  
